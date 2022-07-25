@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sponapp", "sponapp.csproj", "{D7EF0305-2B1F-4656-B1D4-D0AE3538F02C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0375006-6399-4682-84E2-D07E21A28D2E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EF0305-2B1F-4656-B1D4-D0AE3538F02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EF0305-2B1F-4656-B1D4-D0AE3538F02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EF0305-2B1F-4656-B1D4-D0AE3538F02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EF0305-2B1F-4656-B1D4-D0AE3538F02C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBBEEB74-8D92-44C9-AD40-ED383EEE54E4}
+	EndGlobalSection
+EndGlobal
